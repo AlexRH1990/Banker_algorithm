@@ -1,5 +1,7 @@
 
-Running app capture(./images/Captura de pantalla 2024-08-10 134139.png)
+Running app capture
+.Banker_algorith/images/Captura de pantalla 2024-08-10 134139.png
+
 
 
 
@@ -50,7 +52,7 @@ Make your changes and commit them (git commit -m 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Open a pull request.
 Authors
-[Your Name] - Lead developer and project owner.
+Alexander Ramírez - Lead developer and project owner.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
