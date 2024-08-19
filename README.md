@@ -1,43 +1,43 @@
 
 Running app capture
-.Banker_algorith/images/Captura de pantalla 2024-08-10 134139.png
+
+![Captura de pantalla 2024-08-10 134139](https://github.com/user-attachments/assets/b0aec3f6-5e7b-41a9-b5d2-997a8506ba19)
+
+![Captura de pantalla 2024-08-10 163532](https://github.com/user-attachments/assets/12aab8e5-dea6-488b-bf3e-0555e6713316)
 
 
 
-
-
-
-### Banker's Algorithm Project with Graphical User Interface in Java
+# Banker's Algorithm Project with Graphical User Interface in Java
 ## Description
 This project implements  Banker's Algorithm in Java, featuring a graphical user interface (GUI) developed with Swing. The algorithm's purpose is to prevent deadlock in resource allocation systems by ensuring the system remains in a safe state before allocating resources to processes.
 
-## Main Features
-# Banker's Algorithm Simulation: 
+##Main Features
+### Banker's Algorithm Simulation: 
 The project includes a complete implementation of the Banker's Algorithm, which assesses whether the system can satisfy all resource requests without entering an unsafe state.
-# Graphical User Interface (GUI):
+### Graphical User Interface (GUI):
 The project features several screens allowing users to visualize and manage processes, available resources, maximum and allocated matrices, and process states.
-# Real-Time Evaluation: 
+### Real-Time Evaluation: 
 The GUI provides real-time feedback on the system's safety status, indicating completed processes and those still in progress.
 
 ## Project Structure
 
-# Inicio.class: 
+### Inicio.class: 
 The main class that handles the program's logic and initializes the GUI.
-# Inicio.form: 
+### Inicio.form: 
 The design file for the graphical interface.
-# Other associated classes:
+### Other associated classes:
 Include brief descriptions of other relevant classes (if applicable).
 
 ## Usage
 
-# Running the Project:
+### Running the Project:
 The project was developed in NetBeans and can be run by opening the project in NetBeans, compiling the classes, and executing the main class.
-# Interacting with the GUI: 
+### Interacting with the GUI: 
 Upon starting the program, the GUI will provide three main buttons:
 View Processes and Resources: Displays a table with processes, available resources, the maximum matrix, and the allocated matrix.
-# System Evaluation:
+### System Evaluation:
 Prints the completed and running processes and the remaining needs on the screen.
-# Restart Simulation:
+### Restart Simulation:
 Allows restarting the simulation with new random data.
 
 # Requirements
